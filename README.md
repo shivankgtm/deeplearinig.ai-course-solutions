@@ -1,2 +1,2 @@
 # deeplearinig.ai-course-solutions-
-solutions for Deeplearning.ai coursera course.
+solutions for Deeplearning.ai coursera.
